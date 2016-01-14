@@ -15,4 +15,27 @@ public class babySitterTests {
         assertEquals(44, babySitter.moneyEarnedForShift());
     }
 
+    @Test
+    public void workFrom5To12ShouldGet68DollarsPay(){
+        BabySitter babySitter = new BabySitter(5, 12, bedTime);
+        assertEquals(68, babySitter.moneyEarnedForShift());
+    }
+
+    @Test
+    public void workFrom9To12ShouldGetDollarsPay(){
+        BabySitter babySitter = new BabySitter(9, 12, bedTime);
+        assertEquals(24, babySitter.moneyEarnedForShift());
+    }
+
+    @Test
+    public void workFrom12To16ShouldGet64DollarsPay(){
+        BabySitter babySitter = new BabySitter(12, 16, bedTime);
+        assertEquals(64, babySitter.moneyEarnedForShift());
+    }
+
+    @Test
+    public void workFrom5To16ShouldGet132DollarsPay(){
+        BabySitter babySitter = new BabySitter(5, 16, bedTime);
+        assertEquals(132, babySitter.moneyEarnedForShift());
+    }
 }

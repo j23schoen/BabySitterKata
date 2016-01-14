@@ -25,7 +25,7 @@ public class BabySitter {
         }
         else{
             System.out.println("bad values entered");
-            System.exit(0);
+            return 0;
         }
 
 
