@@ -26,13 +26,11 @@
         <entry file="file://$PROJECT_DIR$/test/babySitterTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#233#234#0" expanded="true" />
                 <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,8 +39,8 @@
       <file leaf-file-name="BabySitter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BabySitter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41558442">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.7467533">
+              <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -467,21 +465,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="babySitterTests - 2016.01.14 at 10h 00m 01s.xml">
-      <configuration name="babySitterTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 09h 58m 31s.xml">
-      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 09h 58m 47s.xml">
-      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 09h 58m 56s.xml">
-      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 00m 55s.xml">
-      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 01m 27s.xml">
       <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
     </history-entry>
@@ -497,6 +480,21 @@
     <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 05m 25s.xml">
       <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 08m 31s.xml">
+      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 09m 14s.xml">
+      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 09m 54s.xml">
+      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 10m 12s.xml">
+      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="babySitterTests_workFrom5To9ShouldGet44DollarsPay - 2016.01.14 at 10h 10m 37s.xml">
+      <configuration name="babySitterTests.workFrom5To9ShouldGet44DollarsPay" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -510,7 +508,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24798061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -546,8 +544,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#233#234#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -571,21 +567,19 @@
     <entry file="file://$PROJECT_DIR$/test/babySitterTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#233#234#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BabySitter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41558442">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.7467533">
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
           <folding />
         </state>
       </provider>

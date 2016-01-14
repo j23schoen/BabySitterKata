@@ -15,7 +15,7 @@ public class babySitterTests {
 
     @Test
     public void workFrom5To9ShouldGet44DollarsPay(){
-        assertEquals(44, babySitter.moneyEarnedForShift(5, 9, bedTime));
+        assertEquals(84, babySitter.moneyEarnedForShift(5, 13, bedTime));
     }
 
 }

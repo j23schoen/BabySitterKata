@@ -11,16 +11,18 @@ public class BabySitter {
 
         for( int currentTime = startTime; currentTime < endTime; currentTime ++){
             if(currentTime < bedTime){
-                hourly = startToBedtimeHourPay;
+                System.out.println("hourly:" + startToBedtimeHourPay);
                 System.out.println(totalPay);
-                System.out.println("hourly:" +hourly);
+                hourly = startToBedtimeHourPay;
             }
             else if(currentTime >= bedTime && currentTime < 12){
-                hourly = bedtimeToMidnightPay;
-                System.out.println("hourly:" +hourly);
+                System.out.println("hourly:" + bedtimeToMidnightPay);
                 System.out.println(totalPay);
+                hourly = bedtimeToMidnightPay;
             }
             else{
+                System.out.println("hourly:" + midnightToEndOfShiftPay);
+                System.out.println(totalPay);
                 hourly = midnightToEndOfShiftPay;
             }
 
