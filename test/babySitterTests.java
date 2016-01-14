@@ -38,4 +38,10 @@ public class babySitterTests {
         BabySitter babySitter = new BabySitter(5, 16, bedTime);
         assertEquals(132, babySitter.moneyEarnedForShift());
     }
+
+    @Test
+    public void workFrom5To8ShouldGet36DollarsPay(){
+        BabySitter babySitter = new BabySitter(5, 8, bedTime);
+        assertEquals(36, babySitter.moneyEarnedForShift());
+    }
 }
