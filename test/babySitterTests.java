@@ -7,15 +7,12 @@ public class babySitterTests {
 
     private final int bedTime = 8;
 
-    BabySitter babySitter;
-    @Before
-    public void setUp(){
-        babySitter = new BabySitter();
-    }
+
 
     @Test
     public void workFrom5To9ShouldGet44DollarsPay(){
-        assertEquals(84, babySitter.moneyEarnedForShift(5, 13, bedTime));
+        BabySitter babySitter = new BabySitter(5, 9, bedTime);
+        assertEquals(44, babySitter.moneyEarnedForShift());
     }
 
 }
