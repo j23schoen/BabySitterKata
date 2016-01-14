@@ -1,4 +1,3 @@
-import org.junit.Before;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
@@ -6,8 +5,6 @@ import static junit.framework.TestCase.assertEquals;
 public class babySitterTests {
 
     private final int bedTime = 8;
-
-
 
     @Test
     public void workFrom5To9ShouldGet44DollarsPay(){
